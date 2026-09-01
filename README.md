@@ -1,4 +1,4 @@
-# 🛡️ SOC, Cloud & Network Security Labs Collection
+# 🛡️ Cloud & Network Security Labs Collection
 
 Welcome! This repository documents my hands-on learning journey toward becoming a **Cloud & Network Security Specialist**. Here you will find practical designs, configurations, and traffic analysis setups built across simulated and emulated environments.
 
